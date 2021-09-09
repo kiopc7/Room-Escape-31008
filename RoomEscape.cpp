@@ -1,3 +1,10 @@
+/*
+개발자 : 김다빈, 박종호
+개발일 : 2021.09.09
+문의메일 : ghdls1254@gmail.com 
+*/
+
+
 #include<stdio.h>
 #include<windows.h>
 #include<conio.h>
